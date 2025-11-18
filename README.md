@@ -57,15 +57,25 @@ xor g1(sum,a,b);
 and g2(carry,a,b);
 endmodule
 
-Developed by: Samantha Shree SV RegisterNumber:25017585*/
+
+module logic(a,b,difference,borrow);
+input a,b;
+output difference,borrow;
+assign difference=(a^b);
+assign borrow=((~a)&b);
+endmodule
+Developed by: Samantha Shree SV 
+RegisterNumber:25017585*/
 
 **RTL Schematic**
 <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/ee79e5f6-476d-44c3-bcfd-de5efe650bd5" />
 
+![Uploading Screenshot (93).png…]()
 
 **Output/TIMING Waveform**
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/8038d75a-9f71-47f0-ac6b-36bd014ea222" />
 
+![Uploading Screenshot (94).png…]()
 
 **Result:*
  Thus the circuit and truth table for half adder and subtraction is verified successfully.
