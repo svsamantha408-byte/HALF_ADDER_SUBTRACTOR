@@ -70,12 +70,14 @@ RegisterNumber:25017585*/
 **RTL Schematic**
 <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/ee79e5f6-476d-44c3-bcfd-de5efe650bd5" />
 
-![Uploading Screenshot (93).png…]()
+<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/4ab3bd90-c9d7-473d-8802-8fbe923d64bd" />
+
 
 **Output/TIMING Waveform**
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/8038d75a-9f71-47f0-ac6b-36bd014ea222" />
 
-![Uploading Screenshot (94).png…]()
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/a6542601-e512-4b18-90f8-87cb2480ad13" />
+
 
 **Result:*
  Thus the circuit and truth table for half adder and subtraction is verified successfully.
